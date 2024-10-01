@@ -1,6 +1,6 @@
 # Resume-Builder
 
-## Resume Builder Website: Resume Bilder
+## Resume Builder Website: Resume Builder
 
 ## Developed By: Mahammad Fazil
 
